@@ -5,10 +5,10 @@ My work through https://courses.tutsplus.com/courses/30-days-to-learn-html-css
 
 
 Progress:
-=========
+---------
 1.1         Done!
 
-2.1
+2.1         Done!
 2.2
 2.3
 2.4
