@@ -1,9 +1,15 @@
-a 
-{
-    color: red; text-decoration: none;
+a {
+  color: red; 
+  text-decoration: none;
 }
 
-h1
-{
-    font-family: helvetica, Arial, sans-serif;
+h1{
+  font-family: helvetica, Arial, sans-serif;
+}
+
+div{
+  width: 500px;
+  margin: auto;
+  background: red;
+  text-align: center;
 }
