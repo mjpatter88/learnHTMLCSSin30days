@@ -3,7 +3,7 @@ body{
   font-family: sans-serif;
 }
 
-div{
+.wrap{
   width: 600px;
   margin: auto;
 }
@@ -12,7 +12,7 @@ blockquote{
   border-style: solid;
   border-width: thin;
   border-color: white;
+  margin-left: 0;
   
   text-align: center;
-  padding: 15px;
 }

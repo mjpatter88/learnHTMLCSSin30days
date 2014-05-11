@@ -21,8 +21,8 @@ Progress:
 3.3         Done!
 3.4         Done!
 3.5         Done!
-3.6
-3.7
+3.6         Done!
+3.7         Done!
 3.8
 
 4.1
