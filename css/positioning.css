@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+}
+
+.box{
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  margin: auto;
+  position: relative;
+  left: 40px;
+  top: 20px;
+}
+
+.box2{
+  width: 400px;
+  height: 400px;
+  background-color: green;
+  margin: auto;
+  position: absolute;
+  left: 40px;
+  top: 20px;
+}
